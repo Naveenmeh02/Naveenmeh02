@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen.S.S
-- 👀 I’m interested in *learning new things related to programming* 
+- 👀 I’m interested **in learning new things related to programming**
 - 🌱 I’m currently learning "Web Programming"
 - 📫 How to reach me Discord : Nav#2758
 <!---
